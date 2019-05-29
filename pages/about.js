@@ -18,10 +18,10 @@ class AboutPage extends Component {
             <strong>{this.props.isServer ? "server" : "client"} side</strong>.
           </p>
           <p>
-            You can reload to see how the page change.
+            You can reload to see how the page change. sdfsd fsds
           </p>
           <Link href="/">
-            <a>Go to Home</a>
+            <a>Go to Home </a>
           </Link>
         </section>
       </main>
